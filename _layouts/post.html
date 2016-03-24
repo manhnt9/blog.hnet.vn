@@ -7,9 +7,27 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
+  
+  <div id="fb-root"></div>
+  
+    <script>
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=1978243592400885";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+    
+    {% if page.comment %}
+    <hr/>
+    <h2>Comments</h2>
+    <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="700" data-numposts="5"></div>    
+    {% endif %}
   </div>
-
+  
 </article>
