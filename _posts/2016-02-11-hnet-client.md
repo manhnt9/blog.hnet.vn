@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lập trình client cho H-Net"
-date:   2016-02-11 00:00:00 +0700
+date:   2016-02-11 00:01:00 +0700
 comment: yes
 author: manh
 --- 
