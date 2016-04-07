@@ -21,12 +21,20 @@ layout: default
     </script>
 
   <div class="post-content" itemprop="articleBody">
+  
+    {% assign author = site.data.authors[page.author] %}
+    {% if author %}
+        <p>
+            Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+        </p>
+    {% endif %}
+    
     {{ content }}
     
     {% if page.comment %}
-    <hr/>
-    <h2>Comments</h2>
-    <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="700" data-numposts="5"></div>    
+        <hr/>
+        <h2>Comments</h2>
+        <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="700" data-numposts="5"></div>    
     {% endif %}
   </div>
   
