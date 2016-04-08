@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "H-Net: The Beginning"
-date:   2016-02-07 00:01:00 +0700
+date:   2016-02-07
 comment: yes
 author: manh
 ---

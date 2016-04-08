@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "H-Net: Nhóm phát triển"
-date:   2016-02-21 00:01:00 +0700
+date:   2016-02-21
 comment: yes
 author: manh
 ---  
