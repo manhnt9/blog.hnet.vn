@@ -15,6 +15,7 @@ Trong số 10 người đã đăng ký tham gia từ đầu, trong quá trình m
 Ở trong nhóm, mình đã tạo ra các cơ hội, cũng như có một vài thử thách nhỏ cho các bạn tham gia, để biết được đúng người muốn học hỏi về lập trình, và xa hơn là tham gia phát triển.
 
 Qua một thời gian hoạt động nhóm qua mailing list. Ngày 18/3 mình đã quyết định trực tiếp mời 4 bạn tham gia vào nhóm phát triển, tất cả các bạn đó đều có những đặc điểm chung rằng:
+
 - Chủ động trao đổi với mọi người trong nhóm
 - Muốn tìm hiểu thêm về lập trình và một dự án thật
 - Đã tìm hiểu những chủ để đưa ra ở trong nhóm (mình đã tạo ra vài chủ đề từ đơn giản đến nâng cao để thành viên lựa chọn tùy theo khả năng), người thực sự làm thì chắc chắn đã có tiến triển. Thậm chí nếu chưa có kết quả cụ thể - nhưng đó là minh chứng cho sự cố gắng. Cũng giống như mình, lúc bắt đầu cũng rất mông lung và khó hiểu về mọi thứ, nhưng thời gian bỏ ra chắc chắn sẽ không phí phạm - trừ khi bạn lựa chọn bỏ cuộc.
