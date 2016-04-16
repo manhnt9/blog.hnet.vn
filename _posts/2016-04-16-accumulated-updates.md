@@ -14,7 +14,7 @@ Trong số 10 người đã đăng ký tham gia từ đầu, trong quá trình m
 
 Ở trong nhóm, mình đã tạo ra các cơ hội, cũng như có một vài thử thách nhỏ cho các bạn tham gia, để biết được đúng người muốn học hỏi về lập trình, và xa hơn là tham gia phát triển.
 
-Qua một thời gian hoạt động nhóm qua mailing list. Ngày 18/3 mình đã quyết định trực tiếp mời 4 bạn tham gia vào nhóm phát triển, tất cả các bạn đó đều có những đặc điểm chung rằng:
+Qua một thời gian hoạt động nhóm qua mailing list, ngày 18/3 mình đã quyết định trực tiếp mời 4 bạn tham gia vào nhóm phát triển, tất cả các bạn đó đều có những đặc điểm chung rằng:
 
 - Chủ động trao đổi với mọi người trong nhóm
 - Muốn tìm hiểu thêm về lập trình và một dự án thật
