@@ -28,7 +28,7 @@ Oh đây cũng là một vấn đề đáng cân nhắc bởi các modern system
 
 (Như một điều tất yếu, trường mình đang học cũng đã không còn môn C++ trong chuyên ngành Kỹ thuật phần mềm, nhưng vẫn dạy lập trình C ngay từ đầu – thật khó hiểu, có thể rằng người ta chỉ miễn cưỡng chấp nhận C là căn bản của lập trình và ai cũng phải học nó trước, hoàn toàn không phải, có thể dạy ngay Java, JavaScript, hoặc là Python cho một người chưa biết gì về lập trình, hiệu quả hơn việc khiến người mới học đau đầu với con trỏ và cấp phát động của ngôn ngữ C).
 Tuy nhiên không chỉ đơn giản như vậy, bạn có thể xem thêm một bài dịch của tôi tại link:
-[Hậu quả từ những trường trọng Java](http://devnt.org/hau-qua-tu-nhung-truong-trong-java/)
+[Hậu quả từ những trường trọng Java](https://devnt.org/hau-qua-tu-nhung-truong-trong-java/)
 
 Trở lại với H-Net, ngôn ngữ C++, cụ thể là C++11 đã:
 
@@ -42,7 +42,7 @@ Trở lại với H-Net, ngôn ngữ C++, cụ thể là C++11 đã:
 
 - Và nhiều lý do khác nữa,…
 
-Code Metrics – mình sử dụng tool [Code Analyzer](http://sourceforge.net/projects/codeanalyze-gpl/)
+Code Metrics – mình sử dụng tool [Code Analyzer](https://sourceforge.net/projects/codeanalyze-gpl/)
 <br>Đây là thông tin code base của 3 project, lượng code này do mình viết và không bao gồm code giao diện được tự động sinh ra khi sử dụng UI Designer.
 Các comment được viết cho Doxygen.
 

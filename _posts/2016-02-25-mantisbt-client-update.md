@@ -13,7 +13,7 @@ Hôm nay mình sẽ chia sẻ một vài cập nhật về development trong th�
 
 ## 1. Switching to Mantis
 
-Thông tin đầu tiên đó là project đã chuyển sang dùng Mantis ([Mantis Bug Tracker](http://mantisbt.org/)) thay vì dùng Traq ([http://traq.io](http://traq.io)) để phát triển như trước đây.
+Thông tin đầu tiên đó là project đã chuyển sang dùng Mantis ([Mantis Bug Tracker](https://mantisbt.org/)) thay vì dùng Traq ([https://traq.io](https://traq.io)) để phát triển như trước đây.
 
 ![image](/images/traq.png)
 

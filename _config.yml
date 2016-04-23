@@ -10,7 +10,7 @@ title: H-Net Team
 email: zer0.x@outlook.com
 description: "Development Blog"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.hnet.vn" # the base hostname & protocol for your site
+url: "https://blog.hnet.vn" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 permalink: /:title

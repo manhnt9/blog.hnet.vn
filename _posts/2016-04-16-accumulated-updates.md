@@ -8,9 +8,9 @@ author: manh
 Chào các bạn, thời gian vừa qua ít có dịp viết blog, bài hôm nay sẽ gồm các thông tin tổng hợp về H-Net Development.
 
 ## 1. Nhóm phát triển chính thức
-Như mọi người đã biết, sau Tết Nguyên Đán 2016, mình đã lên kế hoạch tìm kiếm các thành viên để làm một nhóm training, trao đổi về lập trình để tìm kiếm các nhân tố thực sự cho một team phát triển chính thức. ([Bài viết](http://blog.hnet.vn/hnet-training-team))
+Như mọi người đã biết, sau Tết Nguyên Đán 2016, mình đã lên kế hoạch tìm kiếm các thành viên để làm một nhóm training, trao đổi về lập trình để tìm kiếm các nhân tố thực sự cho một team phát triển chính thức. ([Bài viết](https://blog.hnet.vn/hnet-training-team))
 
-Trong số 10 người đã đăng ký tham gia từ đầu, trong quá trình mình cũng gặp một số bạn liên hệ qua [Facebook Page](http://blog.hnet.vn/hnet-training-team). Tổng số thành viên trong nhóm Delopment Training team là 15 người, bao gồm cả mình.
+Trong số 10 người đã đăng ký tham gia từ đầu, trong quá trình mình cũng gặp một số bạn liên hệ qua [Facebook Page](https://blog.hnet.vn/hnet-training-team). Tổng số thành viên trong nhóm Delopment Training team là 15 người, bao gồm cả mình.
 
 Ở trong nhóm, mình đã tạo ra các cơ hội, cũng như có một vài thử thách nhỏ cho các bạn tham gia, để biết được đúng người muốn học hỏi về lập trình, và xa hơn là tham gia phát triển.
 
@@ -28,7 +28,7 @@ Ngày 6/4, một lập trình viên đang công tác tại một công ty phần
 ## 3. Cập nhật tiến độ 
 Vừa qua mình cũng xong việc viết lại đa số code của client, đặc biệt về phần UI. Designer của nhóm cũng đã thiết kế ra giao diện cho các view của ứng dụng. Các thành viên trong nhóm đã làm quen với quy trình phát triển và đang thực hiện khá tốt.
 Bản thân mình cũng đã mở ra được một vài hướng nhìn thoáng hơn cho development.
-Bọn mình cũng đã hoàn tất việc đăng ký tên miền và chuyển sang website mới: [http://www.hnet.vn](http://www.hnet.vn) và thiết lập blog phát triển này.
+Bọn mình cũng đã hoàn tất việc đăng ký tên miền và chuyển sang website mới: [https://www.hnet.vn](https://www.hnet.vn) và thiết lập blog phát triển này.
 
 ## 4. Tổng kết
 Thời gian qua có các thay đổi rất đáng kể, đáng để học hỏi và đáng để phấn đấu tốt hơn.
