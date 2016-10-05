@@ -23,11 +23,6 @@ layout: default
   <div class="post-content" itemprop="articleBody">
   
     {% assign author = site.data.authors[page.author] %}
-    {% if author %}
-        <p>
-            Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
-        </p>
-    {% endif %}
     
     {{ content }}
     
